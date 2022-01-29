@@ -1,14 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import Home from './home';
 import reportWebVitals from './reportWebVitals';
 import {ParallaxProvider} from "react-scroll-parallax";
 
 ReactDOM.render(
   <React.StrictMode>
       <ParallaxProvider>
-            <App />
+            <Home />
       </ParallaxProvider>
   </React.StrictMode>,
   document.getElementById('root')
