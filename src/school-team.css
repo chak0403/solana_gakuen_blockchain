@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "KgHappy";
+    src: local("KgHappy"),
+    url("./assets/font/kghappy.ttf") format("truetype");
+    font-weight: bold;
+}
+
+.schoolTeamContainer {
+    /*position: relative;*/
+}
+
+.schoolTeamContainer .schoolTeamTitle {
+    font-weight: bold;
+    text-align: center;
+    font-size: 300%;
+    font-family: "KgHappy";
+    padding-top: 5%;
+}
+
+.schoolTeamContainer .schoolTeamDetail .MuiGrid-item{
+    font-family: "KgHappy";
+    text-align: center;
+    padding: 0% 5% 5% 5%;
+}
+.schoolTeamContainer .schoolTeamDetail .gridcard{
+}
+
+.schoolTeamContainer .schoolTeamDetail .cards{
+    position: relative;
+    width: 85%;
+}
+
+.schoolTeamContainer .schoolTeamDetail .title{
+    height:50px;
+}
+
+.schoolTeamDetail .MuiGrid-spacing-xs-2{
+    margin: 0px !important;
+}
+
+

@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "KgHappy";
+    src: local("KgHappy"),
+    url("./assets/font/kghappy.ttf") format("truetype");
+    font-weight: bold;
+}
+
+.gridRoadmapContainer {
+    /*height: 120vh;*/
+    /*width: 80vw;*/
+    background-image: url('./assets/blackground_squre.png');
+    /*transform: rotate(-20deg);*/
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: -1;
+    overflow: hidden;
+}
+
+.gridRoadmapContainer .gridRoadmapTitle {
+    padding: 7% 0 0% 0;
+    font-family: "KgHappy";
+    font-size: 500%;
+    color: white;
+    /*background-color: rgb(100,100,100); !* Fallback color *!*/
+    background-color: rgba(100,100,100, 0.6); /* Black w/opacity/see-through */
+}
+
+.gridRoadmapContainer .gridRoadmapDetail {
+    padding: 10vh 15vw 10vh 0vw;
+    font-family: "KgHappy";
+    color: white;
+    /*background-color: rgb(100,100,100); !* Fallback color *!*/
+    background-color: rgba(100,100,100, 0.6); /* Black w/opacity/see-through */
+}
+
+.gridRoadmapContainer .roadmapPercentage {
+    font-size: 300%;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.gridRoadmapContainer .roadmapContent {
+    font-size: 100%;
+}

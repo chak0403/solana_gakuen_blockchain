@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "KgHappy";
+    src: local("KgHappy"),
+    url("./assets/font/kghappy.ttf") format("truetype");
+    font-weight: bold;
+}
+.footer {
+    padding: 2% 2% 2% 2%;
+}
+.footer .css-imwso6-MuiBottomNavigationAction-label{
+    font-family: KgHappy;
+    /*height: auto;*/
+    /*!*background-image: url('./assets/faq_bg.png');*!*/
+    /*!*!*transform: rotate(-20deg);*!*!*/
+    /*!*background-position: center;*!*/
+    /*!*background-repeat: no-repeat;*!*/
+    /*!*background-size: auto;*!*/
+    /*position: relative;*/
+    /*z-index: -1;*/
+    /*overflow: hidden;*/
+}

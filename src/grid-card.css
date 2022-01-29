@@ -1,0 +1,32 @@
+.gridCardContainer {
+    height: 100vh;
+    position: relative;
+    z-index: -1;
+    overflow: hidden;
+    /*padding: 0 0% 10% 0%;*/
+}
+.gridCardContainer .cardsContainer{
+    position: absolute;
+    left: 0px;
+}
+
+.gridCardContainer .barContainer{
+    position: absolute;
+    left: 0px;
+    z-index: -1;
+}
+
+.gridCardContainer .cards {
+    width: 100%;
+    max-width: 100%;
+    position: relative;
+    height: auto;
+    transform: rotate(-20deg);
+    z-index: 1;
+}
+
+.gridCardContainer .bar{
+    width: 100%;
+    position: relative;
+    padding: 0 0 10% 0;
+}

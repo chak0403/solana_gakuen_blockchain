@@ -1,0 +1,64 @@
+
+@font-face {
+    font-family: "BaksoSapi";
+    src: local("BaksoSapi"),
+    url("./assets/font/BaksoSapi.otf") format("truetype");
+    font-weight: bold;
+}
+
+.faqContainer {
+    font-family: BaksoSapi;
+    height: auto;
+    /*background-image: url('./assets/faq_bg.png');*/
+    /*!*transform: rotate(-20deg);*!*/
+    /*background-position: center;*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: auto;*/
+    position: relative;
+    z-index: -1;
+    overflow: hidden;
+}
+.faqContainer .bgImg{
+    position: absolute;
+    width: 120%;
+    right: 0;
+    z-index:-1;
+}
+.faqContainer .title {
+    margin-top:10%;
+    padding: 10px 0% 10px 0%;
+    background: lightpink;
+    width:15%;
+    margin-bottom: 5vh;
+    font-size: 300%;
+    text-align: center;
+    color: white;
+    border-radius: 25px;
+}
+.faqContainer .faqDetail {
+    padding: 1% 0% 10% 0%;
+    width:100%;
+    max-width: 800px;
+}
+
+.faqContainer .MuiList-root{
+    border-radius: 25px;
+}
+
+.faqContainer .MuiTypography-root{
+    font-family: BaksoSapi;
+    color: white;
+    font-size:150%;
+}
+.faqContainer .MuiList-root{
+    background: lightpink;
+}
+
+.faqContainer .css-ishquk-MuiButtonBase-root-MuiListItemButton-root{
+    background: #ffb8a3;
+    font-size: 80%;
+}
+
+.faqContainer .css-ishquk-MuiButtonBase-root-MuiListItemButton-root:hover{
+    background: #ffb8f3;
+}

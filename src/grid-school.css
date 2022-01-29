@@ -1,0 +1,99 @@
+.gridSchoolContainer {
+    min-height: 80vh;
+    /*padding: 7% 0% 15% 0%;*/
+    /*background-image: url('./assets/solana_school_front_v2.png');*/
+    /*background-size: cover;*/
+    /*background-repeat: no-repeat;*/
+    /*background-position: center;*/
+}
+
+.gridSchoolContainer .background{
+    width: 100vw;
+    top:0;
+    position: absolute;
+}
+
+.gridSchoolContainer .buttonlogo {
+    padding: 5% 0 5% 0;
+}
+.MuiButton-label{
+    display: block !important;
+}
+.gridSchoolContainer .mintButton {
+    font-family: BaksoSapi;
+    font-size: 150%;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    /* text-shadow: 0px 0px 10px rgba(0,0,0,0.2);*/
+    box-shadow: 0px 0px 20px #76D6FB;
+    border-radius: 10px;
+    background-image: linear-gradient(45deg, #0FF4B8 0%, #76D6FB 31%, #AF71FF 61%, #698BF4 100%);
+}
+
+.gridSchoolContainer .mintButton:hover {
+    background-position: right center; /* change the direction of the change here */
+}
+.gridSchoolContainer .iconImage {
+    padding-top: 20vh;
+    width: 25vw;
+    z-index: 100;
+}
+
+.gridSchoolContainer .girlContainer{
+    position: absolute;
+    left: 0px;
+    background: pink;
+}
+.gridSchoolContainer .absoluteContainer{
+    /*position: absolute;*/
+    /*height: 20%;*/
+}
+
+.gridSchoolContainer .girlContainer .dialogGirlImage{
+    position: absolute;
+    padding: 0 0 5% 3%;
+    width: 40%;
+    z-index: 2;
+}
+.gridSchoolContainer .dialogContainer {
+    position: absolute;
+    padding: 5% 0 0 0;
+    width: 50%;
+    right: 10%;
+}
+
+.gridSchoolContainer .dialogContainer .dialogGirlContainer .dialogGirl{
+    width: 50%;
+}
+.gridSchoolContainer .dialogContainer .dialogImage {
+    position: relative;
+    float: right;
+    width: 100%;
+}
+
+@font-face {
+    font-family: "BaksoSapi";
+    src: local("BaksoSapi"),
+    url("./assets/font/BaksoSapi.otf") format("truetype");
+    font-weight: bold;
+}
+
+.gridSchoolContainer .dialogContainer .dialogContent {
+    font-family: BaksoSapi;
+    position: absolute;
+    width: 85%;
+    padding:0% 5% 5% 7%;
+    z-index: 1;
+    line-height: 2;
+    margin: auto;
+    font-size: 85%;
+    color: rebeccapurple;
+}
+
+.gridSchoolContainer .dialogContainer #dialogTitle {
+    font-size: 200%;
+    color: rebeccapurple;
+}

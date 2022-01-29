@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "KgHappy";
+  src: local("KgHappy"),
+  url("./assets/font/kghappy.ttf") format("truetype");
+  font-weight: bold;
+}
+
+body {
+  margin: 0;
+  font-family: KgHappy;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /*background-image: url('./assets/solana_school_front.png');*/
+  /*background-size: cover;*/
+  /*background-repeat: no-repeat;*/
+}
+
+#root{
+  height: 100vh;
+  display: flex;
+}
+
+code {
+  font-family: KgHappy;
+}
+.mainContentContainer{
+  flex-grow: 1;
+}

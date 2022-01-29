@@ -1,0 +1,24 @@
+{
+  "program": {
+    "uuid": "2iZjNk",
+    "config": "2iZjNk9P35rroKLLU8kWBGkAX6zFa113sizxsaQFMKzN"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/Ka-tp3WSGYShFA1u1tDJfXQ8TypAB-cO7zPfSLxPi18",
+      "imageLink": "https://arweave.net/w6ov4_qN9okAV_5pnsw5bThuxl0H1osRW6AYp1ucYj4?ext\u003dpng",
+      "name": "Simple NFT #1",
+      "onChain": true
+    },
+    "1": {
+      "link": "https://arweave.net/6H5ZhJlVWyuVakxXqy7pF4BMbs6nwAOAktH444n1P3k",
+      "imageLink": "https://arweave.net/meBy3-wvXrDFr6tbtY1AE4EoiMTzhjM_ttj9zENwtR8?ext\u003dpng",
+      "name": "Simple NFT #2",
+      "onChain": true
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp",
+  "authority": "F6jhuBxAnQo3BkG1g1ARdUc2jUVVEbeR55RdE14Atx3H",
+  "candyMachineAddress": "FYctGz8z4PVCYVpfxNd8aFRNPCQT6Um7ZGp38rX8asV2"
+}

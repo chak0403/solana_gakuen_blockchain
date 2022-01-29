@@ -1,0 +1,40 @@
+
+@font-face {
+    font-family: "BaksoSapi";
+    src: local("BaksoSapi"),
+    url("./assets/font/BaksoSapi.otf") format("truetype");
+    font-weight: bold;
+}
+
+.headerContainer {
+    font-family: BaksoSapi;
+    flex-grow: 1;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+.headerContainer header{
+    background: rgba(0,0,0,0.3);
+    height: 70px;
+}
+.headerContainer .logoImg{
+    height: 50px;
+}
+.menuButton {
+    margin-right: 16px;
+}
+.title {
+    flex-grow: 1;
+    font-family: BaksoSapi !important;
+    font-size: 30px !important;
+    padding-left:5px;
+}
+.navigate {
+    font-family: BaksoSapi !important;
+    font-size: 120% !important;
+    width: 10vw;
+}
+
+.headerContainer .MuiButton-label{
+
+}
