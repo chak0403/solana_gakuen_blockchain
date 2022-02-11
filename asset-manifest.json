@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/solana_gakuen_blockchain/static/css/main.e408d215.chunk.css",
-    "main.js": "/solana_gakuen_blockchain/static/js/main.9b7a0118.chunk.js",
-    "main.js.map": "/solana_gakuen_blockchain/static/js/main.9b7a0118.chunk.js.map",
+    "main.js": "/solana_gakuen_blockchain/static/js/main.92285e9e.chunk.js",
+    "main.js.map": "/solana_gakuen_blockchain/static/js/main.92285e9e.chunk.js.map",
     "runtime-main.js": "/solana_gakuen_blockchain/static/js/runtime-main.0b4cb726.js",
     "runtime-main.js.map": "/solana_gakuen_blockchain/static/js/runtime-main.0b4cb726.js.map",
-    "static/js/2.98085789.chunk.js": "/solana_gakuen_blockchain/static/js/2.98085789.chunk.js",
-    "static/js/2.98085789.chunk.js.map": "/solana_gakuen_blockchain/static/js/2.98085789.chunk.js.map",
+    "static/js/2.39c6f7f3.chunk.js": "/solana_gakuen_blockchain/static/js/2.39c6f7f3.chunk.js",
+    "static/js/2.39c6f7f3.chunk.js.map": "/solana_gakuen_blockchain/static/js/2.39c6f7f3.chunk.js.map",
     "static/js/3.4136ade5.chunk.js": "/solana_gakuen_blockchain/static/js/3.4136ade5.chunk.js",
     "static/js/3.4136ade5.chunk.js.map": "/solana_gakuen_blockchain/static/js/3.4136ade5.chunk.js.map",
     "index.html": "/solana_gakuen_blockchain/index.html",
     "static/css/main.e408d215.chunk.css.map": "/solana_gakuen_blockchain/static/css/main.e408d215.chunk.css.map",
-    "static/js/2.98085789.chunk.js.LICENSE.txt": "/solana_gakuen_blockchain/static/js/2.98085789.chunk.js.LICENSE.txt",
+    "static/js/2.39c6f7f3.chunk.js.LICENSE.txt": "/solana_gakuen_blockchain/static/js/2.39c6f7f3.chunk.js.LICENSE.txt",
     "static/media/school-team.css": "/solana_gakuen_blockchain/static/media/BaksoSapi.cceb2bbd.otf",
     "static/media/coach_v2.52c776ee.png": "/solana_gakuen_blockchain/static/media/coach_v2.52c776ee.png",
     "static/media/dot_bar.14dbe9a5.png": "/solana_gakuen_blockchain/static/media/dot_bar.14dbe9a5.png",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0b4cb726.js",
-    "static/js/2.98085789.chunk.js",
+    "static/js/2.39c6f7f3.chunk.js",
     "static/css/main.e408d215.chunk.css",
-    "static/js/main.9b7a0118.chunk.js"
+    "static/js/main.92285e9e.chunk.js"
   ]
 }
