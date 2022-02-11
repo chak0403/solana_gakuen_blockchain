@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/solana_gakuen_blockchain/static/css/main.e408d215.chunk.css",
-    "main.js": "/solana_gakuen_blockchain/static/js/main.81bd9dd3.chunk.js",
-    "main.js.map": "/solana_gakuen_blockchain/static/js/main.81bd9dd3.chunk.js.map",
-    "runtime-main.js": "/solana_gakuen_blockchain/static/js/runtime-main.0b4cb726.js",
-    "runtime-main.js.map": "/solana_gakuen_blockchain/static/js/runtime-main.0b4cb726.js.map",
-    "static/js/2.7885c03a.chunk.js": "/solana_gakuen_blockchain/static/js/2.7885c03a.chunk.js",
-    "static/js/2.7885c03a.chunk.js.map": "/solana_gakuen_blockchain/static/js/2.7885c03a.chunk.js.map",
-    "static/js/3.4136ade5.chunk.js": "/solana_gakuen_blockchain/static/js/3.4136ade5.chunk.js",
-    "static/js/3.4136ade5.chunk.js.map": "/solana_gakuen_blockchain/static/js/3.4136ade5.chunk.js.map",
+    "main.css": "/solana_gakuen_blockchain/static/css/main.18854c35.chunk.css",
+    "main.js": "/solana_gakuen_blockchain/static/js/main.cc10fb80.chunk.js",
+    "main.js.map": "/solana_gakuen_blockchain/static/js/main.cc10fb80.chunk.js.map",
+    "runtime-main.js": "/solana_gakuen_blockchain/static/js/runtime-main.5da05e93.js",
+    "runtime-main.js.map": "/solana_gakuen_blockchain/static/js/runtime-main.5da05e93.js.map",
+    "static/js/2.929fce2d.chunk.js": "/solana_gakuen_blockchain/static/js/2.929fce2d.chunk.js",
+    "static/js/2.929fce2d.chunk.js.map": "/solana_gakuen_blockchain/static/js/2.929fce2d.chunk.js.map",
+    "static/js/3.27e633cd.chunk.js": "/solana_gakuen_blockchain/static/js/3.27e633cd.chunk.js",
+    "static/js/3.27e633cd.chunk.js.map": "/solana_gakuen_blockchain/static/js/3.27e633cd.chunk.js.map",
     "index.html": "/solana_gakuen_blockchain/index.html",
-    "static/css/main.e408d215.chunk.css.map": "/solana_gakuen_blockchain/static/css/main.e408d215.chunk.css.map",
-    "static/js/2.7885c03a.chunk.js.LICENSE.txt": "/solana_gakuen_blockchain/static/js/2.7885c03a.chunk.js.LICENSE.txt",
-    "static/media/school-team.css": "/solana_gakuen_blockchain/static/media/BaksoSapi.cceb2bbd.otf",
+    "static/css/main.18854c35.chunk.css.map": "/solana_gakuen_blockchain/static/css/main.18854c35.chunk.css.map",
+    "static/js/2.929fce2d.chunk.js.LICENSE.txt": "/solana_gakuen_blockchain/static/js/2.929fce2d.chunk.js.LICENSE.txt",
+    "static/media/grid-school.css": "/solana_gakuen_blockchain/static/media/BaksoSapi.cceb2bbd.otf",
     "static/media/coach_v2.52c776ee.png": "/solana_gakuen_blockchain/static/media/coach_v2.52c776ee.png",
     "static/media/dot_bar.14dbe9a5.png": "/solana_gakuen_blockchain/static/media/dot_bar.14dbe9a5.png",
     "static/media/faq_bg.3c58c581.png": "/solana_gakuen_blockchain/static/media/faq_bg.3c58c581.png",
@@ -28,9 +28,9 @@
     "static/media/team_cho.14a89188.png": "/solana_gakuen_blockchain/static/media/team_cho.14a89188.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b4cb726.js",
-    "static/js/2.7885c03a.chunk.js",
-    "static/css/main.e408d215.chunk.css",
-    "static/js/main.81bd9dd3.chunk.js"
+    "static/js/runtime-main.5da05e93.js",
+    "static/js/2.929fce2d.chunk.js",
+    "static/css/main.18854c35.chunk.css",
+    "static/js/main.cc10fb80.chunk.js"
   ]
 }
