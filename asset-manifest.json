@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/solana_gakuen_blockchain/static/css/main.99bfe89b.chunk.css",
-    "main.js": "/solana_gakuen_blockchain/static/js/main.d553efd3.chunk.js",
-    "main.js.map": "/solana_gakuen_blockchain/static/js/main.d553efd3.chunk.js.map",
+    "main.js": "/solana_gakuen_blockchain/static/js/main.0991524c.chunk.js",
+    "main.js.map": "/solana_gakuen_blockchain/static/js/main.0991524c.chunk.js.map",
     "runtime-main.js": "/solana_gakuen_blockchain/static/js/runtime-main.e9e6416b.js",
     "runtime-main.js.map": "/solana_gakuen_blockchain/static/js/runtime-main.e9e6416b.js.map",
     "static/js/2.f8741909.chunk.js": "/solana_gakuen_blockchain/static/js/2.f8741909.chunk.js",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.e9e6416b.js",
     "static/js/2.f8741909.chunk.js",
     "static/css/main.99bfe89b.chunk.css",
-    "static/js/main.d553efd3.chunk.js"
+    "static/js/main.0991524c.chunk.js"
   ]
 }
