@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/solana_gakuen_blockchain/static/css/main.ddb7939f.chunk.css",
-    "main.js": "/solana_gakuen_blockchain/static/js/main.7b5f0665.chunk.js",
-    "main.js.map": "/solana_gakuen_blockchain/static/js/main.7b5f0665.chunk.js.map",
+    "main.js": "/solana_gakuen_blockchain/static/js/main.c3e1a852.chunk.js",
+    "main.js.map": "/solana_gakuen_blockchain/static/js/main.c3e1a852.chunk.js.map",
     "runtime-main.js": "/solana_gakuen_blockchain/static/js/runtime-main.e9e6416b.js",
     "runtime-main.js.map": "/solana_gakuen_blockchain/static/js/runtime-main.e9e6416b.js.map",
     "static/js/2.f8741909.chunk.js": "/solana_gakuen_blockchain/static/js/2.f8741909.chunk.js",
@@ -22,8 +22,9 @@
     "static/media/solana_chan_live2d_v4.b6ad5866.gif": "/solana_gakuen_blockchain/static/media/solana_chan_live2d_v4.b6ad5866.gif",
     "static/media/roadmap.css": "/solana_gakuen_blockchain/static/media/solana_roadmap_background_v4.579512ea.png",
     "static/media/solana_school_backdrop_v2.f581732e.png": "/solana_gakuen_blockchain/static/media/solana_school_backdrop_v2.f581732e.png",
-    "static/media/solana_school_full_v2_mobile_v2.e1520e4f.png": "/solana_gakuen_blockchain/static/media/solana_school_full_v2_mobile_v2.e1520e4f.png",
+    "static/media/solana_school_full_v2_mobile_v2-min.b6fe5ba6.png": "/solana_gakuen_blockchain/static/media/solana_school_full_v2_mobile_v2-min.b6fe5ba6.png",
     "static/media/solana_school_gate_v2.6157718c.png": "/solana_gakuen_blockchain/static/media/solana_school_gate_v2.6157718c.png",
+    "static/media/solana_school_icon-min.1469d9e1.png": "/solana_gakuen_blockchain/static/media/solana_school_icon-min.1469d9e1.png",
     "static/media/solana_school_icon.2d7ed720.png": "/solana_gakuen_blockchain/static/media/solana_school_icon.2d7ed720.png",
     "static/media/solana_student_card_x6_2.54a89f58.png": "/solana_gakuen_blockchain/static/media/solana_student_card_x6_2.54a89f58.png",
     "static/media/team_cho.14a89188.png": "/solana_gakuen_blockchain/static/media/team_cho.14a89188.png"
@@ -32,6 +33,6 @@
     "static/js/runtime-main.e9e6416b.js",
     "static/js/2.f8741909.chunk.js",
     "static/css/main.ddb7939f.chunk.css",
-    "static/js/main.7b5f0665.chunk.js"
+    "static/js/main.c3e1a852.chunk.js"
   ]
 }
